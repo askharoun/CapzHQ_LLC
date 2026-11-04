@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function Contact(){return <div className="page contact"><p className="eyebrow">WE’RE HERE TO HELP</p><h1>Contact Capz HQ</h1><p>Questions or feedback? We’d love to hear from you.</p><a className="email" href="mailto:support@capzhq.com">support@capzhq.com</a><div className="contactlinks"><Link href="/tutorials">Explore Tutorials</Link><Link href="/account-deletion">Account Deletion</Link></div></div>}

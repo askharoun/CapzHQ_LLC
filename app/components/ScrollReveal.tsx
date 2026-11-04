@@ -1,0 +1,3 @@
+'use client';
+import {useEffect} from 'react';
+export function ScrollReveal(){useEffect(()=>{const items=[...document.querySelectorAll<HTMLElement>('.reveal')];if(!('IntersectionObserver' in window)){items.forEach(x=>x.classList.add('is-visible'));return}const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('is-visible');observer.unobserve(entry.target)}}),{threshold:.14,rootMargin:'0px 0px -4% 0px'});items.forEach(item=>observer.observe(item));document.documentElement.classList.add('motion-ready');return()=>{observer.disconnect();document.documentElement.classList.remove('motion-ready')}},[]);return null}

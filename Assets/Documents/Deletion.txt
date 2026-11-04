@@ -1,0 +1,67 @@
+Delete Your Capz Account
+Capz is operated by Capz HQ LLC. This page explains how to delete your Capz account and what happens to your data.
+
+How to delete your account
+In the app (fastest):
+
+Open Capz and sign in.
+
+Go to the Account tab.
+
+Scroll to the bottom and tap Delete Account.
+
+Confirm when prompted.
+
+By email: If you can't access the app, email support@capzhq.com from the address on your account with the subject line "Delete My Account." We'll verify it's you and delete the account for you.
+
+What happens next
+Your account is deactivated immediately. Your profile stops being visible to other users, and anywhere your name previously appeared you'll show as "Deleted User."
+
+For about 30 days afterward, signing back in will restore your account. After that window, deletion is permanent and cannot be undone.
+
+What is deleted
+Your profile: username, display name, email address, phone number, and profile photo
+
+Your organization memberships and roles
+
+Your event invitations and RSVPs, and your invite-list memberships
+
+Your notification settings and device push tokens
+
+Your blocklist
+
+These are removed from our active systems within 30 days of permanent deletion, and from encrypted backups within 90 days.
+
+What is kept, and for how long
+Messages, images, and polls you sent to a group chat may remain visible to that chat's other members, shown as sent by a deleted user. Content sent to a shared space cannot be un-received. Poll votes you cast continue to count toward that poll's totals. If you want a specific message or image removed, delete it in the app before deleting your account, or ask us.
+
+Security and access logs — 12 months
+
+Organization audit logs (records of admin actions) — 24 months
+
+Support correspondence — 24 months
+
+Records of which legal documents you accepted — kept while legally required
+
+Organization verification documents, if you submitted any to create an organization — deleted within one year of submission
+
+Where the law, an active dispute, or a security investigation requires us to keep something longer, we keep only what's necessary for that purpose.
+
+
+Deleting some of your data without closing your account
+You don't have to delete your whole account to remove specific data:
+
+Messages and images: press and hold any message you sent in a group chat and choose Delete.
+
+Profile details: go to Account → Edit Profile to change or clear your display name, photo, or phone number.
+
+Anything else: email support@capzhq.com with the subject "Privacy Request" describing what you'd like removed. We'll confirm receipt within 10 business days and respond within 45 days.
+
+Deleting a message removes it for everyone going forward, but it cannot retrieve copies other members have already seen or screenshotted.
+
+
+Questions
+Email support@capzhq.com. We aim to respond within 10 business days.
+
+
+One thing to line up: this page is the fourth on your list to publish at capzhq.com, alongside the updated Privacy Policy, Terms, and EULA. The Play listing needs the deletion URL live now, and the other three still serve the September 8 text your app records users as accepting.

@@ -1,0 +1,3 @@
+export const APPLE_URL='https://apps.apple.com/us/app/capz-hq/id6794941483';
+export const GOOGLE_URL='https://play.google.com/store/apps/details?id=com.capzhq.capz&pli=1';
+export function DownloadBadges(){return <div className="download-badges" role="group" aria-label="Download Capz"><a href={APPLE_URL} target="_blank" rel="noopener noreferrer" aria-label="Download Capz on the Apple App Store"><img src="/assets/badge-apple.png" alt="Download on the App Store"/></a><a href={GOOGLE_URL} target="_blank" rel="noopener noreferrer" aria-label="Get Capz on Google Play"><img src="/assets/badge-google.png" alt="Get it on Google Play"/></a></div>}
